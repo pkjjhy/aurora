@@ -20,20 +20,20 @@ export default {
   /**
    * Github Issues 配置
    */
-  username: 'chanshiyucx', // github 用户名
-  repository: 'blog', // 文章仓库地址
-  token: ['ghp_Vokc7d30ejgebjP', 'lTKwl2ScB1KMVnZ146OT2 '],
+  username: 'pkjjhy ', // github 用户名
+  repository: 'blog ', // 文章仓库地址
+  token: ['ghp_RcMBZof1NvRIJxUmSHCb', 'Vsgdieli1q3kuNoj '],
   // token: ['0ad1a0539c5b96fd18fa', 'aaafba9c7d1362a5746c'], // token 从中间任意位置拆开成两部分，避免 github 代码检测失效
 
   /**
    * Gitalk 配置，文档详见：https://github.com/gitalk/gitalk
    */
   gitalk: {
-    clientID: '864b1c2cbc4e4aad9ed8',
-    clientSecret: '6ca16373efa03347e11a96ff92e355c5cea189bb',
-    repo: 'comment', // 评论仓库地址
-    owner: 'chanshiyucx',
-    admin: ['chanshiyucx'],
+    clientID: '7fd7ba30492a8acb698e ',
+    clientSecret: '06d4a2b2f5e2b803809938092b754b991a9f9978 ',
+    repo: 'Comment ', // 评论仓库地址
+    owner: 'pkjjhy ',
+    admin: ['pkjjhy '],
     distractionFreeMode: false, // 是否开始无干扰模式【背景遮罩】
     proxy: 'https://bokegitalkcors.herokuapp.com/https://github.com/login/oauth/access_token',
   },
@@ -42,8 +42,8 @@ export default {
    * leancloud 配置 【注意切换为国际版】
    */
   leancloud: {
-    appId: 'LjOwR4ELEqbauKvtQbwq5TUw-MdYXbMMI',
-    appKey: 'BOSFJ49ohbGctgn4zvJE9VN6',
+    appId: 'p4HpX3u6q7YEGQOd3gzcAnmN-MdYXbMMI ',
+    appKey: 'PmCz0vpDMz5MoQfXwG34iJNk ',
   },
 
   /**
